@@ -28,11 +28,10 @@
                 android:layout_margin="5dp"
                 android:layout_weight="1"
                 android:background="@drawable/circle"
-                android:backgroundTint="#F44336"
                 android:text="@string/clear"
                 android:textColor="#ffffff"
                 android:textSize="24sp"
-                app:backgroundTint=""
+                app:backgroundTint="#F44336"
                 />
 
             <Button
@@ -46,7 +45,7 @@
                 android:text="@string/parenthese"
                 android:textColor="#ffffff"
                 android:textSize="24sp"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 />
 
             <Button
@@ -58,7 +57,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/circle"
                 android:text="@string/exponent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:textColor="#ffffff"
                 android:textSize="24sp" />
 
@@ -71,7 +70,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/circle"
                 android:text="@string/divide"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:textColor="#ffffff"
                 android:textSize="24sp" />
         </TableRow>
@@ -84,7 +83,7 @@
                 android:id="@+id/seven"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -97,7 +96,7 @@
                 android:id="@+id/eight"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -110,7 +109,7 @@
                 android:id="@+id/nine"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -123,7 +122,7 @@
                 android:id="@+id/multyply"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -141,7 +140,7 @@
                 android:id="@+id/four"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -154,7 +153,7 @@
                 android:id="@+id/five"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -167,7 +166,7 @@
                 android:id="@+id/six"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
@@ -180,7 +179,7 @@
                 android:id="@+id/substract"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -199,7 +198,7 @@
                 android:id="@+id/one"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -212,7 +211,7 @@
                 android:id="@+id/two"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -225,7 +224,7 @@
                 android:id="@+id/three"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -238,7 +237,7 @@
                 android:id="@+id/add"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -253,10 +252,10 @@
             android:layout_height="match_parent">
 
             <Button
-                android:id="@+id/plusminus"
+                android:id="@+id/plusMinus"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
 
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
@@ -270,7 +269,7 @@
                 android:id="@+id/zero"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -283,7 +282,7 @@
                 android:id="@+id/point"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
+                app:backgroundTint="#263238"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -296,8 +295,7 @@
                 android:id="@+id/equals"
                 style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
-                app:backgroundTint=""
-                android:backgroundTint="#00E676"
+                app:backgroundTint="#00E676"
                 android:layout_height="70dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
@@ -310,11 +308,11 @@
     </TableLayout>
 
     <EditText
-        android:id="@+id/textView"
+        android:id="@+id/displayEditText"
         android:autofillHints="false"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="@string/display"
+        android:hint="@string/display"
         android:textSize="36sp"
         android:textAlignment="textEnd"
         app:layout_constraintEnd_toEndOf="parent"
@@ -323,12 +321,13 @@
         android:inputType="none"/>
 
     <ImageButton
-        android:id="@+id/button21"
+        android:id="@+id/backspace"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:src="@drawable/circle"
+        android:background="@drawable/circle"
+        app:backgroundTint="#ffffff"
         android:text="@string/backSpace"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toTopOf="@+id/tableLayout"
@@ -337,5 +336,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/ic_baseline_backspace_24" />
+        app:srcCompat="@drawable/ic_baseline_backspace_24"
+        android:contentDescription="TODO" />
 </androidx.constraintlayout.widget.ConstraintLayout>
