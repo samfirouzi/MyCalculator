@@ -307,8 +307,8 @@
 
     </TableLayout>
 
-    <EditText
-        android:id="@+id/displayEditText"
+    <TextView
+        android:id="@+id/displayTextView"
         android:autofillHints="false"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -338,4 +338,13 @@
         app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/ic_baseline_backspace_24"
         android:contentDescription="TODO" />
+
+    <TextView
+        android:id="@+id/textViewResult"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/displayTextView" />
 </androidx.constraintlayout.widget.ConstraintLayout>
